@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models
+*.pkl
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/

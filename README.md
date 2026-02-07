@@ -43,3 +43,4 @@ We calculate a final score (0-100%) like this:
     Send a POST request to `http://localhost:8000/verify` with:
     *   `lat_before`, `lon_before`, `lat_after`, `lon_after`
     *   `image_before` (file), `image_after` (file)
+# Gov-helping-app
